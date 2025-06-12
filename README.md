@@ -3,7 +3,8 @@
 Verdict AI is an end-to-end legal intelligence platform that leverages LLMs, advanced NLP, and transformer models to assist legal professionals, students, and researchers. It offers smart solutions for understanding, processing, and translating legal documents from Indian law.
 
 ---
-![image](https://github.com/user-attachments/assets/db18fc2d-b6fe-4cba-b70d-6ecb3969a118)
+![image](https://github.com/user-attachments/assets/cb25c185-11b3-4fe5-91d6-2c915bdc65fa)
+
 
 ## 🔍 Features
 
